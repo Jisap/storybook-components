@@ -2,7 +2,7 @@ import './mylabel.css';
 
 export interface MyLabelProps {
     /**
-     * Este es el mensaje a mostrar en la etiqueta
+     * Este es el mensaje a mostrar en la etiqueta 
      */
     label: string;
     /**
